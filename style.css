@@ -1,0 +1,13 @@
+   td {
+   font-size: 5em;
+   border: 1px solid black;
+   width: 150px;
+   height: 150px;
+   vertical-align: middle;
+   text-align: center;
+}
+td a {
+   display: block;
+   width: 150px;
+   height: 150px;
+}
